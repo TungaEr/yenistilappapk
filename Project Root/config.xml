@@ -31,7 +31,7 @@ value="org.apache.cordova.device.Device"
 <!-- Core/Common Preferences -->
 
 
-<preference name="Fullscreen" value="true"/> 
+<preference name="Fullscreen" value="false"/> 
 <preference name="DisallowOverscroll" value="true"/> 
 <preference name="Orientation" value="portrait"/>
 <preference name="HideKeyboardFormAccessoryBar" value="false"/>
